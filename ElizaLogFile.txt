@@ -1,0 +1,18 @@
+Customer: I am hungry
+Eliza: It's a shame that you are hungry .
+
+Customer: I am hungry
+Eliza: So, you are concerned that you are hungry ?
+
+Customer: I am hungry
+Eliza: How long have you felt that you are hungry ?
+
+Customer: I am hungry
+Eliza: So, you are concerned that you are hungry ?
+
+Customer: I am hungry
+Eliza: It's a shame that you are hungry .
+
+Customer: I am hungry
+Eliza: It's a shame that you are hungry .
+

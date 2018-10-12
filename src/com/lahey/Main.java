@@ -76,6 +76,9 @@ import java.util.Scanner;
 
 public class Main {
 
+    //*********************************************************************
+    // main instantiates Eliza and handles input to and output from Eliza
+    //*********************************************************************
     public static void main(String[] args) {
         Scanner scanInput = new Scanner(System.in);
         String sInputString = "";
@@ -96,6 +99,8 @@ public class Main {
             }
 
         }while( !(sInputString.equalsIgnoreCase(sQuitString)) && !(sInputString.equalsIgnoreCase(sQuitQ)));
+
+        eliza.cleanup();
 
     }//end public static void main(String[] args)
 
